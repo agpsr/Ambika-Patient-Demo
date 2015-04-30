@@ -1,0 +1,16 @@
+C:\Users\ambika ganesan\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\bin\Debug\PatientDemo.ConsoleApp.exe.config
+C:\Users\ambika ganesan\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\bin\Debug\PatientDemo.ConsoleApp.exe
+C:\Users\ambika ganesan\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\bin\Debug\PatientDemo.ConsoleApp.pdb
+C:\Users\ambika ganesan\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\bin\Debug\PatientDemo.Domain.dll
+C:\Users\ambika ganesan\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\bin\Debug\PatientDemo.Domain.pdb
+C:\Users\ambika ganesan\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\obj\Debug\PatientDemo.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\ambika ganesan\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\obj\Debug\PatientDemo.ConsoleApp.exe
+C:\Users\ambika ganesan\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.ConsoleApp\obj\Debug\PatientDemo.ConsoleApp.pdb
+C:\Users\ambika ganesan\Documents\GitHub\Ambika\PatientDemo.ConsoleApp\bin\Debug\PatientDemo.ConsoleApp.exe.config
+C:\Users\ambika ganesan\Documents\GitHub\Ambika\PatientDemo.ConsoleApp\obj\Debug\PatientDemo.ConsoleApp.exe
+C:\Users\ambika ganesan\Documents\GitHub\Ambika\PatientDemo.ConsoleApp\obj\Debug\PatientDemo.ConsoleApp.pdb
+C:\Users\ambika ganesan\Documents\GitHub\Ambika\PatientDemo.ConsoleApp\bin\Debug\PatientDemo.ConsoleApp.exe
+C:\Users\ambika ganesan\Documents\GitHub\Ambika\PatientDemo.ConsoleApp\bin\Debug\PatientDemo.ConsoleApp.pdb
+C:\Users\ambika ganesan\Documents\GitHub\Ambika\PatientDemo.ConsoleApp\bin\Debug\PatientDemo.Domain.dll
+C:\Users\ambika ganesan\Documents\GitHub\Ambika\PatientDemo.ConsoleApp\bin\Debug\PatientDemo.Domain.pdb
+C:\Users\ambika ganesan\Documents\GitHub\Ambika\PatientDemo.ConsoleApp\obj\Debug\PatientDemo.ConsoleApp.csprojResolveAssemblyReference.cache

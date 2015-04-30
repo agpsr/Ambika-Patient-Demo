@@ -1,0 +1,10 @@
+C:\Users\ambika ganesan\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.Domain\bin\Debug\PatientDemo.Domain.dll
+C:\Users\ambika ganesan\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.Domain\bin\Debug\PatientDemo.Domain.pdb
+C:\Users\ambika ganesan\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.Domain\obj\Debug\PatientDemo.Domain.csprojResolveAssemblyReference.cache
+C:\Users\ambika ganesan\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.Domain\obj\Debug\PatientDemo.Domain.dll
+C:\Users\ambika ganesan\Documents\GitHub\Projects\Mentoring\PatientDemo\PatientDemo.Domain\obj\Debug\PatientDemo.Domain.pdb
+C:\Users\ambika ganesan\Documents\GitHub\Ambika\PatientDemo.Domain\bin\Debug\PatientDemo.Domain.dll
+C:\Users\ambika ganesan\Documents\GitHub\Ambika\PatientDemo.Domain\bin\Debug\PatientDemo.Domain.pdb
+C:\Users\ambika ganesan\Documents\GitHub\Ambika\PatientDemo.Domain\obj\Debug\PatientDemo.Domain.csprojResolveAssemblyReference.cache
+C:\Users\ambika ganesan\Documents\GitHub\Ambika\PatientDemo.Domain\obj\Debug\PatientDemo.Domain.dll
+C:\Users\ambika ganesan\Documents\GitHub\Ambika\PatientDemo.Domain\obj\Debug\PatientDemo.Domain.pdb
